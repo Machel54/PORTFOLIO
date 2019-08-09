@@ -3,6 +3,8 @@ body{
   padding: 0;
   background: #262626;
 }
-skewedBox{
-  background: #ed
+.skewedBox{
+  background: #edff57;
+  padding: 100px 0;
+  transform: skew( 0deg , -10deg);
 }
