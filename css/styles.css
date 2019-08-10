@@ -12,10 +12,16 @@ body{
   padding: 150px 200px;
   transform: skew(0deg, 10deg);
 }
-.container h3{
+.container h1{
   margin: 0;
   padding: 20px 0;
-  font-size: 3em;
+  font-size: 4.0em;
+  text-transform: uppercase;
+}
+.container h2{
+  margin: 0;
+  padding: 20px 0;
+  font-size: 3.0em;
 }
 .container p{
   font-size: 1em;
