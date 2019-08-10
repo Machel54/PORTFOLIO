@@ -17,13 +17,10 @@ body{
   padding: 20px 0;
   font-size: 3em;
 }
-.container h{
+.container h2{
   font-size: 1em;
   margin: 0;
   padding: 0;
   line-height: 1.5em;
   width: 80%;
-}
-.section2{
-  padding:  0 200px
 }
