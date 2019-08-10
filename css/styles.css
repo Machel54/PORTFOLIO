@@ -39,7 +39,7 @@ body{
   color: #fff;
   text-align: right;
   font-size: 2.0em;
-  font-family: 'Julius Sans One', sans-serif;
+  
 }
 .section2 p{
   font-size: 1em;
@@ -47,4 +47,5 @@ body{
   padding: 0;
   line-height: 1.5em;
   width: 80%;
+  font-family: 'Julius Sans One', sans-serif;
 }
